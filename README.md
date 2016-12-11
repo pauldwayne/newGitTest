@@ -1,1 +1,2 @@
 # newGitTest
+HELLO I'M NEW HERE
